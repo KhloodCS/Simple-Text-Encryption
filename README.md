@@ -1,0 +1,1 @@
+A simple application for encrypte and decrypt txt files with acceibility to choose any file from device browser and save the cipher txt in the device. the project contains java code and .exe simple program
